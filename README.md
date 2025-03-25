@@ -1,11 +1,3 @@
----
-  title: "Suicide Rates Data Cleaning and Processing"
-author: "Thanos
-date: "March 25, 2025"
-output: html_document
----
-  
-  ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 
 ### Load Required Libraries
